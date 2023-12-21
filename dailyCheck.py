@@ -2,7 +2,6 @@
 # -*- coding:utf-8 -*-
 
 # file:dailyCheck.py
-# author:柴武斌
 # datetime:2022/4/30 13:47
 # software: PyCharm
 '''
